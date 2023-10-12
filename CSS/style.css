@@ -1,0 +1,31 @@
+.center_div {
+background-color: rgba(0,0,0, 0.5);
+margin-top:200px;
+}
+
+.center_div1 {
+background-color: rgba(0,0,0, 0.5);
+margin-top:50px;
+}
+
+.loginbg{
+ background-image: url("../1.jpg");
+    background-repeat: no-repeat;
+        background-size: 100%;
+}
+
+.signupbg{
+    background-image: url("../2.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.forgotPass{
+    background-image: url("../3.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.pw{
+    margin-left: 100px;
+}
